@@ -1,2 +1,2 @@
-# LLM-attetmpt
+# LLM-attempt
 Large Language Model
